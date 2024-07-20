@@ -1,0 +1,22 @@
+* e27916b agregando 2 parrafos
+*   f9f84c4 Resolviendo conflicto en estaciones del año y fecha de inicio
+|\  
+| * df89f6e agregando las estaciones del año
+* | 3cd50cf agregando estaciones del año con fecha de inicio
+|/  
+*   d8ac4d3 resolviendo conflicto merge main/html en el documento index.html
+|\  
+| * a6a6b2e agregando index.js al index.html
+* | 98604c3 agregando stylr.css al index.html
+|/  
+*   b90f836 Integrating changes from 'js' branch into main branch.
+|\  
+| * 5413a67 creando index.js
+* | 79e8f60 creadno style.css
+* | 751858b creando archivo index.html
+|/  
+* 586fd63 ignorando archivos .exe
+* 6c1997d Create LICENSE
+* 53d2a96 tercer cambio
+* fbce4a5 segundo cambio
+* 9455176 primer cambio

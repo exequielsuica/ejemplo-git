@@ -1,0 +1,98 @@
+commit e27916b62d8567105023c3dff1b400c6172eb169
+Author: exequielsuica <exequiel.szotar@gmail.com>
+Date:   Fri Jul 19 01:10:36 2024 -0300
+
+    agregando 2 parrafos
+
+commit f9f84c4959d664988d917a98337a370fb66f5e71
+Merge: 3cd50cf df89f6e
+Author: exequielsuica <exequiel.szotar@gmail.com>
+Date:   Fri Jul 19 01:07:15 2024 -0300
+
+    Resolviendo conflicto en estaciones del año y fecha de inicio
+
+commit 3cd50cf7c6e212f44d8729ca1c692a2915585444
+Author: exequielsuica <exequiel.szotar@gmail.com>
+Date:   Fri Jul 19 00:47:26 2024 -0300
+
+    agregando estaciones del año con fecha de inicio
+
+commit df89f6ead9e87435a26c6ebbcb3e4d4904fab044
+Author: exequielsuica <exequiel.szotar@gmail.com>
+Date:   Fri Jul 19 00:47:26 2024 -0300
+
+    agregando las estaciones del año
+
+commit d8ac4d37ae75614cb3b596f53f6f30d22accdd73
+Merge: 98604c3 a6a6b2e
+Author: exequielsuica <exequiel.szotar@gmail.com>
+Date:   Fri Jul 19 00:40:19 2024 -0300
+
+    resolviendo conflicto merge main/html en el documento index.html
+
+commit a6a6b2ef9f00c5fcbb881900b724a2802e1b0e75
+Author: exequielsuica <exequiel.szotar@gmail.com>
+Date:   Fri Jul 19 00:29:48 2024 -0300
+
+    agregando index.js al index.html
+
+commit 98604c35bc5cec28b94319a0483226a23e2c0e1b
+Author: exequielsuica <exequiel.szotar@gmail.com>
+Date:   Fri Jul 19 00:25:05 2024 -0300
+
+    agregando stylr.css al index.html
+
+commit b90f8367f3d29a048caaac05d2589f0e4c98cd52
+Merge: 79e8f60 5413a67
+Author: exequielsuica <exequiel.szotar@gmail.com>
+Date:   Wed Jul 17 21:04:41 2024 -0300
+
+    Integrating changes from 'js' branch into main branch.
+
+commit 5413a6760d4d3b25d619c8d247760b7a29d2af83
+Author: exequielsuica <exequiel.szotar@gmail.com>
+Date:   Wed Jul 17 20:58:54 2024 -0300
+
+    creando index.js
+
+commit 79e8f6022781bc08d4528128e10deb29e6fc442c
+Author: exequielsuica <exequiel.szotar@gmail.com>
+Date:   Wed Jul 17 20:52:58 2024 -0300
+
+    creadno style.css
+
+commit 751858bd2f6dc61645e07ce533cf9ce857b54c89
+Author: exequielsuica <exequiel.szotar@gmail.com>
+Date:   Wed Jul 17 20:46:51 2024 -0300
+
+    creando archivo index.html
+
+commit 586fd63f390a9e1136edea4b7b869725de0416a5
+Author: exequielsuica <exequiel.szotar@gmail.com>
+Date:   Wed Jul 17 20:30:09 2024 -0300
+
+    ignorando archivos .exe
+
+commit 6c1997d79bce0adcd26a52b1e7b418b91efd992b
+Author: exequielsuica <exequiel.szotar@gmail.com>
+Date:   Wed Jul 17 18:50:42 2024 -0300
+
+    Create LICENSE
+
+commit 53d2a96cd9b8991978e0239ce0060cf3d6ce910c
+Author: exequielsuica <exequiel.szotar@gmail.com>
+Date:   Wed Jul 17 18:43:10 2024 -0300
+
+    tercer cambio
+
+commit fbce4a5a5e77f5ce9816507854353972a0e01556
+Author: exequielsuica <exequiel.szotar@gmail.com>
+Date:   Wed Jul 17 18:25:30 2024 -0300
+
+    segundo cambio
+
+commit 945517611ebfc9b958c6fd22af0e36f7d6b924b7
+Author: exequielsuica <exequiel.szotar@gmail.com>
+Date:   Wed Jul 17 18:24:49 2024 -0300
+
+    primer cambio
